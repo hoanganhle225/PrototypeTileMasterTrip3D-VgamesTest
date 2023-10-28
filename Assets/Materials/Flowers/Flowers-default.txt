@@ -1,0 +1,52 @@
+{"frames": {
+
+"Flower1.jpg":
+{
+	"frame": {"x":629,"y":1,"w":1000,"h":674},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":674},
+	"sourceSize": {"w":1000,"h":674}
+},
+"Flower2.png":
+{
+	"frame": {"x":1,"y":1,"w":626,"h":626},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":626,"h":626},
+	"sourceSize": {"w":626,"h":626}
+},
+"Flower3.png":
+{
+	"frame": {"x":1,"y":1505,"w":1380,"h":971},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1380,"h":971},
+	"sourceSize": {"w":1380,"h":971}
+},
+"Flower4.png":
+{
+	"frame": {"x":829,"y":677,"w":826,"h":826},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":826,"h":826},
+	"sourceSize": {"w":826,"h":826}
+},
+"Flower5.png":
+{
+	"frame": {"x":1,"y":677,"w":826,"h":826},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":826,"h":826},
+	"sourceSize": {"w":826,"h":826}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Flowers-default.png",
+	"format": "RGBA8888",
+	"size": {"w":1656,"h":2477},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:aab7c4865cbf187630e3150554d2096d:d5a64f5ba8145f11c96569cc796307ad:2ef7a4b128c35521a915c84e536341aa$"
+}
+}

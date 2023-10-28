@@ -1,0 +1,11 @@
+﻿.vs
+Library
+Logs
+obj
+UserSettings
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Meryel.CodeAssist.Editor.csproj
+TestVgames.sln
+Temp
+PrototypeTileMasterTrip3D-VgamesTest.sln

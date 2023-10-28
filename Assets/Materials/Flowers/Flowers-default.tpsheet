@@ -1,0 +1,20 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:364599d8983588377626eac443d4d2bf:d5a64f5ba8145f11c96569cc796307ad:728056140f5e1e1c5340e1bb1e6f734e$
+#
+:format=40300
+:texture=Flowers-default.png
+:size=2048x4096
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Flower1;1;2448;1000;674; 0.5;0.5; 0;0;0;0; 4;1000;0;0;0;0;674;1000;674; 2;1;2;3;0;1;3
+Flower2;1383;3469;626;626; 0.5;0.5; 0;0;0;0; 4;626;0;0;0;0;626;626;626; 2;1;2;3;0;1;3
+Flower3;1;3124;1380;971; 0.5;0.5; 0;0;0;0; 4;1380;0;0;0;0;971;1380;971; 2;1;2;3;0;1;3
+Flower4;1;1620;826;826; 0.5;0.5; 0;0;0;0; 4;826;0;0;0;0;826;826;826; 2;1;2;3;0;1;3
+Flower5;1003;2296;826;826; 0.5;0.5; 0;0;0;0; 4;826;0;0;0;0;826;826;826; 2;1;2;3;0;1;3
